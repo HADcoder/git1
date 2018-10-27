@@ -10,6 +10,7 @@ public class Test1 {
         System.out.println("6 push到测试分支");
         System.out.println("这是主分支");
         System.out.println("主22222");
+        System.out.println("新建分支后不pull直接push");
 
     }
 }
