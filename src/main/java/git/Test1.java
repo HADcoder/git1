@@ -9,7 +9,9 @@ public class Test1 {
         System.out.println("5 代码从测试分支拉下来并解决冲突以后,想提交到测试分支");
         System.out.println("6 push到测试分支");
         System.out.println("这是主分支");
+        System.out.println("主22222");
         System.out.println("往测试分支里写了代码");
+        System.out.println("又往测试分支里写了代码");
 
     }
 }
